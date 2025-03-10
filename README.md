@@ -20,4 +20,23 @@ Desenvolver protótipos da interface do sistema de acordo com os diagramas de ca
 
 - ## Protótipos :
 - O sistema está sendo prototipado com base no diagramas de caso de uso da fase anterior. Os protótipos refletem as seguintes funcionalidades e jornadas:
-- 
+
+- **Cadastro de Pessoa Física
+- **Cadastro de Pessoa Jurídica
+- **Cadastro de Professores
+- **Cadastro de Fornecedores
+- **Cadastro de Alunos
+
+## Acesso aos Protótipos
+
+Todos os integrantes do grupo possuem acesso ao repósitorio e todos contribuiram na construção do projeto. As contribuções seguem as boas práticas de versionamento de código e documentação.
+
+#Equipe: 
+- **BRAIAN DOS SANTOS PEREIRA
+- **EDUARDO FELIPE VICENTE
+- **JUCIEU FELIPE VIEIRIA DE OLIVEIRA
+- **HENRIQUE FONSECA DA SILVEIRA
+- **MATHEUS GABRIEL CANUTO VAZ CANEDO
+- **PEDRO HENRIQUE BORGES DA SILVA
+
+
