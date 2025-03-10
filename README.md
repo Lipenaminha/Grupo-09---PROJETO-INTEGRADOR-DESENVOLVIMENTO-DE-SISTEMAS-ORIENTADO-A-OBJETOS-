@@ -29,7 +29,9 @@ Os protótipos foram desenvolvidos no **Figma**, com base nos **diagramas de cas
 - **Detalhes do Usuário** → Exibição de informações individuais, com opção de atualização dos dados.  
 
 ### 🔹 Funcionalidades Simuladas 
-- **Fluxo de cadastro completo** com validação de campos.  - **Navegação entre telas** para refletir o funcionamento real do sistema.  - **Componentes interativos**, simulando botões, modais e feedbacks visuais.  
+- **Fluxo de cadastro completo** com validação de campos.
+- **Navegação entre telas** para refletir o funcionamento real do sistema.
+- **Componentes interativos**, simulando botões, modais e feedbacks visuais.  
 
 ## 🤝Acesso aos Protótipos:
 Os protótipos refletem as telas do sistema de acordo com os diagramas UML.
