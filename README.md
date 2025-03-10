@@ -14,8 +14,8 @@ Desenvolver protótipos da interface do sistema de acordo com os diagramas de ca
 
 ## 🛠️Tecnologias Utilizadas:
 - **Ferramentas de prototipação**: Figma
-- **Backend**: Opcional 
-- **Frontend**: Opcional
+- **Backend**: Implantação futura
+- **Frontend**: Implantação futura 
 - **Banco de Dados** : Opcional
 
 ## 🎨 Protótipos  
