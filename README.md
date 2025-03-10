@@ -22,7 +22,11 @@ Desenvolver protótipos da interface do sistema de acordo com os diagramas de ca
 Os protótipos foram desenvolvidos no **Figma**, com base nos **diagramas de caso de uso e classes** definidos na fase 1. Eles representam a estrutura e fluxo do sistema, incluindo: 
  
 ### 📌 Telas Criadas  
-- **Tela de Login e Cadastro** → Permite que diferentes tipos de usuários (PF, PJ, Professores, Alunos e Fornecedores) realizem o cadastro e autenticação.  - **Painel Principal** → Interface inicial após o login, com atalhos para as principais funcionalidades.  - **Formulário de Cadastro** → Campos dinâmicos para cada tipo de usuário, validados conforme regras de negócio.  - **Tela de Listagem** → Exibe usuários cadastrados, permitindo edição e exclusão.  - **Detalhes do Usuário** → Exibição de informações individuais, com opção de atualização dos dados.  
+- **Tela de Login e Cadastro** → Permite que diferentes tipos de usuários (PF, PJ, Professores, Alunos e Fornecedores) realizem o cadastro e autenticação.
+- **Painel Principal** → Interface inicial após o login, com atalhos para as principais funcionalidades.
+- **Formulário de Cadastro** → Campos dinâmicos para cada tipo de usuário, validados conforme regras de negócio.
+- **Tela de Listagem** → Exibe usuários cadastrados, permitindo edição e exclusão.
+- **Detalhes do Usuário** → Exibição de informações individuais, com opção de atualização dos dados.  
 
 ### 🔹 Funcionalidades Simuladas 
 - **Fluxo de cadastro completo** com validação de campos.  - **Navegação entre telas** para refletir o funcionamento real do sistema.  - **Componentes interativos**, simulando botões, modais e feedbacks visuais.  
