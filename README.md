@@ -28,15 +28,17 @@ Os protótipos foram desenvolvidos no **Figma**, com base nos **diagramas de cas
 - **Fluxo de cadastro completo** com validação de campos.  - **Navegação entre telas** para refletir o funcionamento real do sistema.  - **Componentes interativos**, simulando botões, modais e feedbacks visuais.  
 
 ## 🤝Acesso aos Protótipos:
-Protótipos  Os protótipos refletem as telas do sistema de acordo com os diagramas UML.
+Os protótipos refletem as telas do sistema de acordo com os diagramas UML.
 
 Todos os integrantes do grupo possuem acesso ao repósitorio e todos contribuiram na construção do projeto. As contribuções seguem as boas práticas de versionamento de código e documentação.
 
 Acesse os protótipos no Figma:** [link do Figma aqui]  
 ## 🏗️ Arquitetura do Sistema  
 ```bash📦 sistema-universidade   
+┣ 📂 backend/  # Implementação futura 
+┣ 📂 frontend/  # Protótipo do figma  
 ┣ 📂 docs/  # Diagramas UML e documentação   
-┗ 📜 README.md  # Documentação do projeto   
+┗📜 README.md  # Documentação do projeto  
 
 ```
 ## 👥 Equipe
