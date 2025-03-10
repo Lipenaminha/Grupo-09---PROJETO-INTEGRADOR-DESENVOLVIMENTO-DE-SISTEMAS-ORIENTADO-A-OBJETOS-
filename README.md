@@ -16,7 +16,7 @@ Desenvolver protótipos da interface do sistema de acordo com os diagramas de ca
 - **Ferramentas de prototipação**: Figma
 - **Backend**: Implantação futura
 - **Frontend**: Implantação futura 
-- **Banco de Dados** : Opcional
+- **Banco de Dados** : Implantação futura 
 
 ## 🎨 Protótipos  
 Os protótipos foram desenvolvidos no **Figma**, com base nos **diagramas de caso de uso e classes** definidos na fase 1. Eles representam a estrutura e fluxo do sistema, incluindo: 
