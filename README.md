@@ -38,7 +38,7 @@ Os protótipos refletem as telas do sistema de acordo com os diagramas UML.
 
 Todos os integrantes do grupo possuem acesso ao repósitorio e todos contribuiram na construção do projeto. As contribuções seguem as boas práticas de versionamento de código e documentação.
 
-Acesse os protótipos no Figma:** [link do Figma aqui]  
+[Acesse os protótipos no Figma](https://www.figma.com/design/1EhEKOlWG1K38nr0uETiQO/Untitled?node-id=0-1&m=dev&t=Buzwq3378suPdqIE-1)
 ## 🏗️ Arquitetura do Sistema  
 ```bash📦 sistema-universidade   
 ┣ 📂 backend/  # Implementação futura 
